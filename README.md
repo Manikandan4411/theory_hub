@@ -361,6 +361,12 @@ Through this project, the following concepts were practiced:
 
 Java Backend Developer | Spring Boot Developer | Software Engineer
 
-## 📄 License
+## License
 
-This project is created for learning, portfolio, and educational purposes.
+Copyright © 2026 Manikandan S. All Rights Reserved.
+
+Theory Hub is available for viewing, personal learning, educational reference, and note-taking only. Copying, modifying, redistributing, or commercially using the original source code and materials without prior written permission is prohibited.
+
+Third-party components and resources remain subject to their respective licenses.
+
+See the [LICENSE](LICENSE) file for details.
